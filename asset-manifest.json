@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/filmppq/static/css/main.1d5480e9.css",
+    "main.js": "/filmppq/static/js/main.17326c15.js",
+    "static/js/787.30731f8b.chunk.js": "/filmppq/static/js/787.30731f8b.chunk.js",
+    "static/media/scifi.jpg": "/filmppq/static/media/scifi.d7e33e800ac02f489fd8.jpg",
+    "static/media/spiderman.jpg": "/filmppq/static/media/spiderman.2d8e48db70fee2a9fbe9.jpg",
+    "static/media/main.jpg": "/filmppq/static/media/main.4a912a242568343fea42.jpg",
+    "static/media/brakingbad.png": "/filmppq/static/media/brakingbad.e3b17dc23359450dfc4e.png",
+    "static/media/onepiece.jpeg": "/filmppq/static/media/onepiece.d91bdb4934ac5d4b2850.jpeg",
+    "static/media/drstrange2.jpeg": "/filmppq/static/media/drstrange2.3adb8db4795ffd93a3fa.jpeg",
+    "static/media/batman.jpg": "/filmppq/static/media/batman.d63ba254a96468382e2b.jpg",
+    "static/media/thegodfather.jpeg": "/filmppq/static/media/thegodfather.c103e79c415a8fa2b0a4.jpeg",
+    "static/media/joker.jpg": "/filmppq/static/media/joker.4231e28eb1f27552d08f.jpg",
+    "static/media/naruto poster.jpeg": "/filmppq/static/media/naruto poster.9e24fa8e0d63ac2d5d00.jpeg",
+    "static/media/thebabysitters.jpeg": "/filmppq/static/media/thebabysitters.22b26e4ad4169426f2eb.jpeg",
+    "static/media/superman.jpg": "/filmppq/static/media/superman.1f90bb661b43de78b7b8.jpg",
+    "static/media/elcamino.jpeg": "/filmppq/static/media/elcamino.0c4f63039fda7479012d.jpeg",
+    "static/media/cintabrontosaurus.jpg": "/filmppq/static/media/cintabrontosaurus.7c1df0e7bfc65761fba5.jpg",
+    "static/media/Rekomendasi.png": "/filmppq/static/media/Rekomendasi.83c08a2d39f3103950e2.png",
+    "index.html": "/filmppq/index.html",
+    "main.1d5480e9.css.map": "/filmppq/static/css/main.1d5480e9.css.map",
+    "main.17326c15.js.map": "/filmppq/static/js/main.17326c15.js.map",
+    "787.30731f8b.chunk.js.map": "/filmppq/static/js/787.30731f8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d5480e9.css",
+    "static/js/main.17326c15.js"
+  ]
+}
