@@ -57,7 +57,7 @@ Gatau Di Isi Apa
                             <div className="p-2 m-1 text-white ">
                                 <Card.Title className="text-center">Dr Strange in the Multiverse</Card.Title>
                                 <Card.Text className="text-left">
-
+Gatau Di Isi Apa
                                 </Card.Text>
                                 <Card.Text className="text-left">Last updated 3 mins ago</Card.Text>
                             </div>
